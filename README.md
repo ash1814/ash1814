@@ -15,7 +15,7 @@ I'm a Certified Scrum Master and an experienced QA Engineer with a deep passion 
 - 🌟 **Passion for Quality:** Quality assurance is not just a job; it's a commitment to delivering a seamless and trustworthy product. I'm devoted to elevating user experiences and ensuring software reliability.
 
 - 🔭 I’m currently working on ensuring the quality of Proptech Solutions
-//- 🌱 I’m currently learning [What You're Learning]
+- 🌱 I’m currently learning about Ethical Hacking 
 - 💬 Ask me about API and UI Automation
 - 📫 How to reach me: talk2ashiq@gmail.com
 
@@ -32,20 +32,20 @@ Here are some technologies and tools I'm familiar with:
 - AWS CodePipeline
 - Jira
 
-//## 🛠️ Projects
+## 🛠️ Projects
 
-//Here are some of the projects I've worked on:
+Here are some of the projects I've worked on:
 
-//- [Project 1](Link to Project 1): Description of Project 1
-//- [Project 2](Link to Project 2): Description of Project 2
-//- [Project 3](Link to Project 3): Description of Project 3
+- [Project 1](Link to Project 1): Description of Project 1
+- [Project 2](Link to Project 2): Description of Project 2
+- [Project 3](Link to Project 3): Description of Project 3
 
 
 ## 📫 Contact Me
 
 Feel free to connect with me on:
 
-- <i class="fab fa-linkedin-in"></i> https://www.linkedin.com/in/ashiqur-rahman-869101134/
-//- [Twitter](Your Twitter Profile URL)
+- [Linkedln] https://www.linkedin.com/in/ashiqur-rahman-869101134/
+- [Twitter](Your Twitter Profile URL)
 
 Let's collaborate and build something great together!
