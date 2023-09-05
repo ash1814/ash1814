@@ -15,7 +15,7 @@ I'm a Certified Scrum Master and an experienced QA Engineer with a deep passion 
 - 🌟 **Passion for Quality:** Quality assurance is not just a job; it's a commitment to delivering a seamless and trustworthy product. I'm devoted to elevating user experiences and ensuring software reliability.
 
 - 🔭 I’m currently working on ensuring the quality of Proptech Solutions
-- 🌱 I’m currently learning [What You're Learning]
+//- 🌱 I’m currently learning [What You're Learning]
 - 💬 Ask me about API and UI Automation
 - 📫 How to reach me: talk2ashiq@gmail.com
 
