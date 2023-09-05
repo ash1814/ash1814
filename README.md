@@ -32,20 +32,20 @@ Here are some technologies and tools I'm familiar with:
 - AWS CodePipeline
 - Jira
 
-## 🛠️ Projects
+//## 🛠️ Projects
 
-Here are some of the projects I've worked on:
+//Here are some of the projects I've worked on:
 
-- [Project 1](Link to Project 1): Description of Project 1
-- [Project 2](Link to Project 2): Description of Project 2
-- [Project 3](Link to Project 3): Description of Project 3
-- ...
+//- [Project 1](Link to Project 1): Description of Project 1
+//- [Project 2](Link to Project 2): Description of Project 2
+//- [Project 3](Link to Project 3): Description of Project 3
+
 
 ## 📫 Contact Me
 
 Feel free to connect with me on:
 
-- [LinkedIn](Your LinkedIn Profile URL)
-- [Twitter](Your Twitter Profile URL)
+- <i class="fab fa-linkedin-in"></i> https://www.linkedin.com/in/ashiqur-rahman-869101134/
+//- [Twitter](Your Twitter Profile URL)
 
 Let's collaborate and build something great together!
