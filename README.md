@@ -1,10 +1,10 @@
 # Hello, I'm Ashiqur Rahman 👋
 
-I'm an experienced QA Engineer with a deep passion for ensuring software quality and delivering top-notch user experiences. My journey in the world of software testing has been marked by a commitment to excellence and a drive to solve complex problems. Here's a bit about me:
+I'm a Certified Scrum Master and an experienced QA Engineer with a deep passion for ensuring software quality and delivering top-notch user experiences. My journey in the world of software testing has been marked by a commitment to excellence and a drive to solve complex problems. Here's a bit about me:
 
-- 🕵️‍♂️ **Professional Background:** With [X] years of experience in Quality Assurance, I've honed my skills in manual and automated testing to ensure the highest standards of software reliability.
+- 🕵️‍♂️ **Professional Background:** With 3 years of experience in Quality Assurance, I've honed my skills in manual and automated testing to ensure the highest standards of software reliability.
 
-- 🌐 **Diverse Expertise:** I specialize in testing a wide range of technologies and frameworks, including [List some relevant technologies or frameworks].
+- 🌐 **Diverse Expertise:** I specialize in testing a wide range of technologies and frameworks, including Svelte, React, Angular, Vue.js, Flask, Laravel, Node.js, and Django.
 
 - 🚀 **Continuous Improvement:** My work is driven by a dedication to continuous improvement. I'm constantly exploring new testing methodologies and tools to stay at the forefront of the QA field.
 
@@ -14,23 +14,23 @@ I'm an experienced QA Engineer with a deep passion for ensuring software quality
 
 - 🌟 **Passion for Quality:** Quality assurance is not just a job; it's a commitment to delivering a seamless and trustworthy product. I'm devoted to elevating user experiences and ensuring software reliability.
 
-- 🔭 I’m currently working on [Current Project or Goal]
+- 🔭 I’m currently working on ensuring the quality of Proptech Solutions
 - 🌱 I’m currently learning [What You're Learning]
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Contact Information]
+- 💬 Ask me about API and UI Automation
+- 📫 How to reach me: talk2ashiq@gmail.com
 
 ## ⚡ Technologies & Tools
 
 Here are some technologies and tools I'm familiar with:
 
-- [Tech/Tool 1]
-- [Tech/Tool 2]
-- [Tech/Tool 3]
-- ...
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ash1814&show_icons=true&theme=dark)
+- Postman
+- Cypress
+- Selenium
+- Appium
+- Apache Jmeter
+- Github Actions
+- AWS CodePipeline
+- Jira
 
 ## 🛠️ Projects
 
