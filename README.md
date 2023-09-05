@@ -1,6 +1,6 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Ashiqur Rahman 👋
 
-Welcome to my GitHub profile! I'm passionate about [Your Interests], and I enjoy solving problems and creating [Your Specialization]-related projects. Here's a bit about me:
+Welcome to my GitHub profile! I'm passionate about , and I enjoy solving problems and creating [Your Specialization]-related projects. Here's a bit about me:
 
 - 🔭 I’m currently working on [Current Project or Goal]
 - 🌱 I’m currently learning [What You're Learning]
@@ -18,7 +18,7 @@ Here are some technologies and tools I'm familiar with:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ash1814&show_icons=true&theme=dark)
 
 ## 🛠️ Projects
 
