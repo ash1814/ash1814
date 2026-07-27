@@ -2,7 +2,7 @@
 
 I'm a Certified Scrum Master and an experienced QA Engineer with a deep passion for ensuring software quality and delivering top-notch user experiences. My journey in the world of software testing has been marked by a commitment to excellence and a drive to solve complex problems. Here's a bit about me:
 
-- 🕵️‍♂️ **Professional Background:** With 3 years of experience in Quality Assurance, I've honed my skills in manual and automated testing to ensure the highest standards of software reliability.
+- 🕵️‍♂️ **Professional Background:** With 6 years of experience in Quality Assurance, I've honed my skills in manual and automated testing to ensure the highest standards of software reliability.
 
 - 🌐 **Diverse Expertise:** I specialize in testing a wide range of technologies and frameworks, including Svelte, React, Angular, Vue.js, Flask, Laravel, Node.js, and Django.
 
